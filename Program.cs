@@ -779,5 +779,5 @@ private static void ProcessWordDocument(string originalPath, string newPath)
             }
         }
 
-    }
+    }  
 }
