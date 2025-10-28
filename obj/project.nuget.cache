@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kM9ubCNKwDg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Developer1\\index1\\WordProcessorConsole\\WordProcessorConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer1\\.nuget\\packages\\documentformat.openxml\\3.3.0\\documentformat.openxml.3.3.0.nupkg.sha512",
+    "C:\\Users\\Developer1\\.nuget\\packages\\documentformat.openxml.framework\\3.3.0\\documentformat.openxml.framework.3.3.0.nupkg.sha512",
+    "C:\\Users\\Developer1\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
