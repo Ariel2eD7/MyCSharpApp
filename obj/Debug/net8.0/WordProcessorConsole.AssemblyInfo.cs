@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordProcessorConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+098c00798f1773e4552cce1c77d79217c0ba5b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordProcessorConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordProcessorConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,3 +17,4 @@ C:\Users\Developer1\index1\WordProcessorConsole\obj\Debug\net8.0\refint\WordProc
 C:\Users\Developer1\index1\WordProcessorConsole\obj\Debug\net8.0\WordProcessorConsole.pdb
 C:\Users\Developer1\index1\WordProcessorConsole\obj\Debug\net8.0\WordProcessorConsole.genruntimeconfig.cache
 C:\Users\Developer1\index1\WordProcessorConsole\obj\Debug\net8.0\ref\WordProcessorConsole.dll
+C:\Users\Developer1\index1\WordProcessorConsole\obj\Debug\net8.0\WordProcessorConsole.sourcelink.json
