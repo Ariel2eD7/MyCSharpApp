@@ -237,7 +237,7 @@ private static void ProcessWordDocument(string originalPath, string newPath, str
 
         Console.WriteLine("Date ranges and first 'צפייה בקישורים' headline removed successfully.");
     }
-
+ 
     private static void MoveFirstImageToTop(Wp.Body body)
     {
 
