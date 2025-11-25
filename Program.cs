@@ -284,7 +284,7 @@ private static void ProcessWordDocument(string originalPath, string newPath, str
 
 
     }
-
+ 
     private static void InsertHeaderFromTextStart(MainDocumentPart mainPart, Wp.Body body)
     {
         // Find the first paragraph that starts with "דו\"ח תקופתי"
