@@ -205,7 +205,7 @@ private static void ProcessWordDocument(string originalPath, string newPath, str
             }
         }
     }
-
+ 
     private static void RemoveDateRanges(Wp.Body body)
     {
         // Pattern: <number> <word> <number> עד <number> <word> <number>
@@ -385,7 +385,7 @@ private static void ProcessWordDocument(string originalPath, string newPath, str
         // Optional: clean leftover empty paragraphs
         CleanupEmptyParagraphs(body);
     }
-
+ 
 
     private static void CopyHeadlineUnderLogo(Wp.Body body, string headline)
     {
